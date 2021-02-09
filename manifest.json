@@ -28,8 +28,7 @@
     ],
     "homepage_url": "https://github.com/febaoshan/edge-extensions-github-code-viewer",
     "permissions": [
-        "contextMenus",
-        "declarativeContent"
+        "contextMenus"
     ],
     "background": {
         "scripts": ["src/background.js"]
