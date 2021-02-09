@@ -1,0 +1,37 @@
+{
+    "name": "github-code-viewer",
+    "version": "0.0.1",
+    "manifest_version": 2,
+    "description": "A Chromium extension to view GitHub code faster and easier.",
+    "icons": {
+        "16": "icons/logo16x16.png",
+        "32": "icons/logo32x32.png",
+        "48": "icons/logo48x48.png",
+        "128": "icons/logo128x128.png"
+    },
+    "page_action": {
+        "default_popup": "popup/popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://github.com/*"
+            ],
+            "js": [
+                "src/background.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ],
+    "web_accessible_resources": [
+        "src/background.js"
+    ],
+    "homepage_url": "https://github.com/febaoshan/edge-extensions-github-code-viewer",
+    "permissions": [
+        "contextMenus",
+        "declarativeContent"
+    ],
+    "background": {
+        "scripts": ["src/background.js"]
+    }
+}
