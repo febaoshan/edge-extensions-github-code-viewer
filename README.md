@@ -8,7 +8,7 @@ A Chromium extension to view GitHub code faster and easier.
         <br />
         Hi there, welcome to use github-code-viewer!
         <br />
-        You can enjoy it from the browser context menu in GitHub.
+        You can enjoy it from the browser context menu(right click) in GitHub.
         <br />
         View this extension on <a target="_blank" href="https://github.com/febaoshan/edge-extensions-github-code-viewer">febaoshan/github-code-viewer</a>
         <br />
@@ -16,3 +16,21 @@ A Chromium extension to view GitHub code faster and easier.
     </div>
 </body>
 </html>
+
+## User Guide
+
+### Install extension locally
+1. Donwload edge-extensions-github-code-viewer.zip from this repo;
+2. Unzip the edge-extensions-github-code-viewer.zip;
+3. Open chrome or edge setting panel, [chrome](chrome://extensions/), [edge](edge://extensions/);
+4. Open `developer mode`;
+5. Choose `Load decompressed extensions`;
+6. Done.
+
+### Install from app store
+- Install from [Microsoft-Edge-Extensions-Home](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) PS: reviewing, sooner or later.
+- I cannot publish it on chrome, welcome someone to publish it and tell me your effort.
+
+## Enjoy it
+
+![captcha](./captcha.gif)
