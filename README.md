@@ -28,8 +28,8 @@ A Chromium extension to view GitHub code faster and easier.
 6. Done.
 
 ### Install from app store
-- Install from [Microsoft-Edge-Extensions-Home](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) PS: reviewing, sooner or later.
-- I cannot publish it on chrome, welcome someone to publish it and tell me your effort.
+- Install from [Microsoft-Edge-Extensions-Home](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home) [githubcodeviewer](https://microsoftedge.microsoft.com/addons/detail/githubcodeviewer/jaaaapanahkknbgdbglnlchbjfhhjlpi).
+- Install from [Chrome-webstore](https://chrome.google.com/webstore/detail/github-code-viewer/ecddapgifccgblebfibdgkagfbdagjfn?hl=en&authuser=0)  Thanks to [xcv58](https://github.com/xcv58).
 
 ## Enjoy it
 
