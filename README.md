@@ -1,5 +1,7 @@
 # edge-extensions-github-code-viewer
-A Chromium extension to view GitHub code faster and easier.![visitor badge](https://visitor-badge.glitch.me/badge?page_id=febaoshan.edge-extensions-github-code-viewer)
+A Chromium extension to view GitHub code faster and easier.
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=febaoshan.edge-extensions-github-code-viewer)
 
 <html lang="en">
 <body>
